@@ -1,0 +1,7 @@
+{
+  "name": "VERITEX BD - AI Supply Chain",
+  "description": "The AI-Verified Supply Chain. Always-On Audit, Zero-Defect Line, and Skill Blockchain for the RMG sector.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
